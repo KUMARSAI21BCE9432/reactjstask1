@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/git%20remote%20add%20origin%20https://kKUMARSAI21BCE9432.github.com/reactjstask1/static/css/main.5b3005e2.css",
+    "main.js": "/git%20remote%20add%20origin%20https://kKUMARSAI21BCE9432.github.com/reactjstask1/static/js/main.d2f246cf.js",
+    "static/js/787.5cdefbac.chunk.js": "/git%20remote%20add%20origin%20https://kKUMARSAI21BCE9432.github.com/reactjstask1/static/js/787.5cdefbac.chunk.js",
+    "index.html": "/git%20remote%20add%20origin%20https://kKUMARSAI21BCE9432.github.com/reactjstask1/index.html",
+    "main.5b3005e2.css.map": "/git%20remote%20add%20origin%20https://kKUMARSAI21BCE9432.github.com/reactjstask1/static/css/main.5b3005e2.css.map",
+    "main.d2f246cf.js.map": "/git%20remote%20add%20origin%20https://kKUMARSAI21BCE9432.github.com/reactjstask1/static/js/main.d2f246cf.js.map",
+    "787.5cdefbac.chunk.js.map": "/git%20remote%20add%20origin%20https://kKUMARSAI21BCE9432.github.com/reactjstask1/static/js/787.5cdefbac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b3005e2.css",
+    "static/js/main.d2f246cf.js"
+  ]
+}
